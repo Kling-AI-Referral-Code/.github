@@ -13,19 +13,6 @@ The bonus credits are applied instantly upon payment confirmation and appear in 
 
 Understanding which plan delivers optimal value requires examining the true cost per credit when factoring in the **Kling AI referral code** bonus. The tables below reveal the substantial savings available through strategic plan selection.
 
-### Monthly and Annual Plans (Standard Rates)
-
-| Plan | Credits per Month | Price | Cost per 100 Credits |
-|------|------------------|-------|---------------------|
-| Standard Monthly | 660 | $6.99/mo | $1.06 |
-| Standard Annual | 660 | $79.20/yr | $1.00 |
-| Pro Monthly | 3,000 | $25.99/mo | $0.87 |
-| Pro Annual | 3,000 | $293.04/yr | $0.81 |
-| Premier Monthly | 8,000 | $64.99/mo | $0.81 |
-| Premier Annual | 8,000 | $728.64/yr | $0.76 |
-| Ultra Monthly | 26,000 | $127.99/mo | $0.49 |
-| Ultra Annual | 26,000 | $1,429.99/yr | $0.46 |
-
 ### First Month with Referral Code Bonus
 
 When you apply the **Kling AI referral code 7BPNSXVCR8FL**, your first month economics change dramatically. These calculations include the 166 signup credits plus the 50% referral bonus:
@@ -38,6 +25,19 @@ When you apply the **Kling AI referral code 7BPNSXVCR8FL**, your first month eco
 | **Ultra + Referral** | **31,166** | **$127.99** | **$0.41** |
 
 The Ultra plan with referral code achieves $0.41 per 100 credits—surpassing even the Ultra annual commitment rate of $0.46 per 100 credits. This represents a 205% savings compared to direct credit purchases at $1.25 per 100 credits.
+
+### Monthly and Annual Plans (Standard Rates)
+
+| Plan | Credits per Month | Price | Cost per 100 Credits |
+|------|------------------|-------|---------------------|
+| Standard Monthly | 660 | $6.99/mo | $1.06 |
+| Standard Annual | 660 | $79.20/yr | $1.00 |
+| Pro Monthly | 3,000 | $25.99/mo | $0.87 |
+| Pro Annual | 3,000 | $293.04/yr | $0.81 |
+| Premier Monthly | 8,000 | $64.99/mo | $0.81 |
+| Premier Annual | 8,000 | $728.64/yr | $0.76 |
+| Ultra Monthly | 26,000 | $127.99/mo | $0.49 |
+| Ultra Annual | 26,000 | $1,429.99/yr | $0.46 |
 
 ### Direct Credit Purchases (No Subscription)
 
